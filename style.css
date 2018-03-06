@@ -37,7 +37,7 @@
 }
 	
 .rainbow{
-	background: url(../img/pastel.jpg)no-repeat center center fixed;
+	background-image: url(rainbow-background.jpg)no-repeat center center fixed;
 	background-size:cover;
 }
 

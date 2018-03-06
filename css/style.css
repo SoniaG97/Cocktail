@@ -1,6 +1,6 @@
 .title-image { 
 	height:300px;
-	background: url(../img/smoothie.jpg);
+	background: url(../img/title-background.jpg);
 	background-size:cover;
 	background-repeat: no-repeat;
 	opacity: 0.7;
@@ -13,16 +13,17 @@
 }
 
 .title {
-	font-family: "comic sans MS"; 
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
     text-align: center;
-    color: black;
+    color: white;
     font-size: 75px;
     margin-top: 50px;
+    font-style: bold;
 
 }
 
 .sotw {
-	font-family: "comic sans MS";
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 	text-align: left;
 	color: white;
 	font-size: 40px
@@ -37,21 +38,20 @@
 }
 	
 .rainbow{
-	background: url(../img/pastel.jpg)no-repeat center center fixed;
+	background-image: url(rainbow-background.jpg)no-repeat center center fixed;
 	background-size:cover;
 }
 
-.blueberry{
-	font-family: "comic sans MS";
-}
+.raspberry{
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 
-.strawberry {
-	font-family: "comic sans MS";
+}
+.colada{
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 
 .cucumber {
-	font-family: "comic sans MS";
-}
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 
 .input[type=text] {
     width: 130px;
