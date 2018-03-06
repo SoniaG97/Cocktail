@@ -1,0 +1,79 @@
+.title-image { 
+	height:300px;
+	background: url(../img/smoothie.jpg);
+	background-size:cover;
+	background-repeat: no-repeat;
+	opacity: 0.7;
+
+}
+
+.title-image img {
+	max-height: 100%;
+	min-width:100%;
+}
+
+.title {
+	font-family: "comic sans MS"; 
+    text-align: center;
+    color: black;
+    font-size: 75px;
+    margin-top: 50px;
+
+}
+
+.sotw {
+	font-family: "comic sans MS";
+	text-align: left;
+	color: white;
+	font-size: 40px
+}
+
+.img-test{
+	width: 100%;
+	padding-top: 5px;
+    padding-right: 3px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+}
+	
+.rainbow{
+	background: url(../img/pastel.jpg)no-repeat center center fixed;
+	background-size:cover;
+}
+
+.blueberry{
+	font-family: "comic sans MS";
+}
+
+.strawberry {
+	font-family: "comic sans MS";
+}
+
+.cucumber {
+	font-family: "comic sans MS";
+}
+
+.input[type=text] {
+    width: 130px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    margin-right: 50px;
+}
+
+
+.description1{
+	
+.almond-img{
+	margin-right: 1000px;
+	margin-top: 200px;
+	float: right;
+}
+.almond{
+	margin-top: 200px;
+	text-align: left;
+}
+
+.description{
+	margin-left: 200px
+	margin-top:200px;
+}
